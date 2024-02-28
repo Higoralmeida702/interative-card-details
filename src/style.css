@@ -1,0 +1,8 @@
+body {
+    background-color: white;
+    color: red;
+    background-image: url('../public/imagens/bg-main-desktop.png');
+    position: absolute;
+    background-repeat: no-repeat;
+    background-size: 40%;
+}
